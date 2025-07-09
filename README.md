@@ -1,4 +1,4 @@
-# 😷 Face Mask Detection with Lightweight Custom CNN (98.6% Accuracy)
+# Face Mask Detection with Lightweight Custom CNN (98.6% Accuracy)
 
 This project presents an ultra-efficient **Custom Convolutional Neural Network (CNN)** architecture for classifying whether individuals are wearing a face mask or not. Despite containing only **~2 million trainable parameters**, the model achieves performance **comparable to heavier architectures like VGG16**, making it ideal for real-time or resource-constrained environments.
 
