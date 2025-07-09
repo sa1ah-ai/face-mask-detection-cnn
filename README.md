@@ -83,15 +83,15 @@ Images are resized to `128x128x3` RGB format during preprocessing.
 | Confusion Matrix | ✅ High Precision |
 
 <p align="center">
-  <img src="outputs/confusion_matrix.png" alt="Confusion Matrix" width="450"/>
+  <img src="output/confusion_matrix.png" alt="Confusion Matrix" width="450"/>
 </p>
 
 <p align="center">
-  <img src="outputs/train_val_acc.png" alt="Train & Validation Accuracy" width="450"/>
+  <img src="output/train_val_acc.png" alt="Train & Validation Accuracy" width="450"/>
 </p>
 
 <p align="center">
-  <img src="outputs/train_val_loss.png" alt="Train & Validation Loss" width="450"/>
+  <img src="output/train_val_loss.png" alt="Train & Validation Loss" width="450"/>
 </p>
 ---
 
