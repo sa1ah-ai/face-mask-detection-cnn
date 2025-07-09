@@ -17,21 +17,23 @@ This project presents an ultra-efficient **Custom Convolutional Neural Network (
 
 ## 🗂️ Project Structure
 
-Face-Mask-CNN/ 
-├── notebooks/ 
-│   └── fmd_cnn_notebook.ipynb 
-├── dataset/ 
-│   ├── with_mask/ 
-│   └── without_mask/ 
-├── models/ 
-│   └── best_model.h5 
-├── outputs/ 
-│   └── confusion_matrix.png
-│   └── Train & Validation Accuracy.png 
-│   └── Train & Validation Loss.png  
-├── requirements.txt └── README.md
+```text
+Face-Mask-CNN/
+├── notebooks/
+│   └── fmd_cnn_notebook.ipynb
+├── dataset/
+│   ├── with_mask/
+│   └── without_mask/
+├── models/
+│   └── best_model.h5
+├── outputs/
+│   ├── confusion_matrix.png
+│   ├── Train & Validation Accuracy.png
+│   └── Train & Validation Loss.png
+├── requirements.txt
+└── README.md
 
-
+```
 ---
 
 ## 📁 Dataset
@@ -97,13 +99,5 @@ Images are resized to `128x128x3` RGB format during preprocessing.
 
 ```bash
 pip install -r requirements.txt
-
-
-📜 License
-This project is licensed under the Apache 2.0 License—free for personal and commercial use
-
-🙌 Acknowledgments
-Dataset curated by Omkar Gurav on Kaggle
-
-CNN and training framework built using TensorFlow 2.x
+```
 
