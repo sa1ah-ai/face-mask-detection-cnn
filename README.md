@@ -87,11 +87,11 @@ Images are resized to `128x128x3` RGB format during preprocessing.
 </p>
 
 <p align="center">
-  <img src="outputs/Train & Validation Accuracy.png" alt="Train & Validation Accuracy" width="450"/>
+  <img src="outputs/train_val_acc.png" alt="Train & Validation Accuracy" width="450"/>
 </p>
 
 <p align="center">
-  <img src="outputs/Train & Validation Loss.png" alt="Train & Validation Loss" width="450"/>
+  <img src="outputs/train_val_loss.png" alt="Train & Validation Loss" width="450"/>
 </p>
 ---
 
@@ -99,5 +99,10 @@ Images are resized to `128x128x3` RGB format during preprocessing.
 
 ```bash
 pip install -r requirements.txt
+```
+## 🚀 Run the Notebook
+
+```bash
+jupyter notebook notebooks/fmd_cnn_notebook.ipynb
 ```
 
